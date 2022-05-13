@@ -19,7 +19,7 @@
   Type 'node server' into the command line from the root folder to run from the local host.   
   
   ## Contributing
-  Contact through email or github.
+  Contact through email or github in the [Questions](#questions) section
   
   ## Questions
   Contact Information:
